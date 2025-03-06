@@ -8,7 +8,8 @@ homepage: 'https://hugo-ladder.pages.dev'
 defaultContentLanguage: 'en'
 googleAnalytics: G-7E4JNTL3ES
 enableRobotsTXT: true
-paginate: 10
+pagination:
+  pagerSize: 10
 hasCJKLanguage: true
 copyright: "2023 GuangzhengLi All rights reserved"
 Author:

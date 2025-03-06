@@ -205,8 +205,8 @@ licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICE
 description: 'A fast, clean Hugo theme'
 homepage: 'https://hugo-ladder.pages.dev'
 defaultContentLanguage: 'en'
-googleAnalytics: G-4WXJ5TEK2S
-paginate: 10
+pagination:
+  pagerSize: 10
 menu:
   main:
     - name: Blog
