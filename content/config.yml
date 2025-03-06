@@ -5,7 +5,7 @@ license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
 homepage: 'https://smile243.github.io'
-defaultContentLanguage: 'en'
+defaultContentLanguage: 'zh'
 googleAnalytics: G-7E4JNTL3ES
 enableRobotsTXT: true
 pagination:
@@ -18,9 +18,9 @@ Author:
 params:
   brand: HOME
   avatarURL: /images/avatar.png
-  author: Hugo Ladder
-  authorDescription: A clean, fast hugo theme focused on Reading
-  info: Build a free and beautiful blog site to record your thoughts and increase your influence
+  author: 
+  authorDescription: 
+  info: 
   favicon: /images/avatar.ico
   options:
     showDarkMode: true
