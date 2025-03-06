@@ -1,11 +1,11 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://smile243.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://hugo-ladder.pages.dev'
-defaultContentLanguage: 'en'
+homepage: 'https://smile243.github.io'
+defaultContentLanguage: 'zh'
 googleAnalytics: G-7E4JNTL3ES
 enableRobotsTXT: true
 paginate: 10
