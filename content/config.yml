@@ -3,7 +3,7 @@ title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
-description: 'A fast, clean Hugo theme'
+description: '哈哈哈'
 homepage: 'https://smile243.github.io'
 defaultContentLanguage: 'zh'
 googleAnalytics: G-7E4JNTL3ES
@@ -13,8 +13,8 @@ pagination:
 hasCJKLanguage: true
 copyright: "2023 GuangzhengLi All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "Jiale Yu"
+  email: "yjl827359508@gmail.com"
 params:
   brand: HOME
   avatarURL: /images/avatar.png
@@ -63,7 +63,7 @@ params:
         0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09
         1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44
         7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-      url: 'https://github.com/guangzhengli'
+      url: 'https://github.com/smile243'
     # - name: Twitter
     #   pre: >-
     #     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
